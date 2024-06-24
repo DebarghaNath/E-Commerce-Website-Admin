@@ -1,0 +1,92 @@
+.a1
+{
+    height: 300px;
+}
+.a2
+{
+    min-height: 375px;
+}
+.sub-item
+{
+    cursor: pointer;
+}
+.invalid {
+    margin-top: 20%;
+    padding: 10%;
+    border-radius: 25px;
+    margin-left:25%;
+    margin-right: 25%;
+    text-align: center;
+  }
+  .invalid:hover
+  {
+    color: white;
+    background-image: linear-gradient(rgb(228, 70, 70),orange);
+    box-shadow: 10px 10px 10px  rgb(133, 133, 133);
+  }
+  .card-header
+  {
+    justify-content: center;
+    align-items: center;
+  }
+  .card-title
+  {
+    text-align: center;
+  }
+  .form-group
+  {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .card-body
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn-success
+  {
+    margin-left:30%;
+  }
+.form-group-a
+{
+    
+    background-color: brown;
+    max-width:100% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-round
+{
+    transition: 0.5s;
+}
+.card-round:hover
+{
+    transform: scale(1.05);
+    box-shadow: 10px 10px 10px rgb(105, 69, 183);
+}
+.form-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Adjust spacing between each group as needed */
+}
+
+.form-group label {
+  margin-right: 10px; /* Adjust spacing between label and select as needed */
+  white-space: nowrap; /* Prevents label text from wrapping */
+}
+
+.form-select {
+  flex: 1; /* Ensures the select box takes up the remaining space */
+}
