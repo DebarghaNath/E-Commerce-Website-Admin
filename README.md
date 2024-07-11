@@ -18,13 +18,14 @@ Featured Products: Admins can choose which products to feature on the front page
 Image Management: Ensure high-quality and relevant images are displayed on the front page to attract and engage customers.
 
 IMAGES:
-<img width="1555" alt="Screenshot 2024-07-11 at 11 46 14 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/9bf56743-9b73-48f8-9a9f-6913cb1c4801">
 
 Display page:
 
 <img width="1710" alt="Screenshot 2024-07-11 at 11 44 56 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/5453ae5e-0c06-4d29-a089-7538542b331f">
 
 Login Page:
+
+<img width="1555" alt="Screenshot 2024-07-11 at 11 46 14 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/9bf56743-9b73-48f8-9a9f-6913cb1c4801">
 
 
 Dashboard and functionalities:
