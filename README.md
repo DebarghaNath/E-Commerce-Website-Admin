@@ -18,5 +18,21 @@ Featured Products: Admins can choose which products to feature on the front page
 Image Management: Ensure high-quality and relevant images are displayed on the front page to attract and engage customers.
 
 IMAGES:
+<img width="1555" alt="Screenshot 2024-07-11 at 11 46 14 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/9bf56743-9b73-48f8-9a9f-6913cb1c4801">
+
+Display page:
 
 <img width="1710" alt="Screenshot 2024-07-11 at 11 44 56 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/5453ae5e-0c06-4d29-a089-7538542b331f">
+
+Login Page:
+
+
+Dashboard and functionalities:
+
+
+<img width="1694" alt="Screenshot 2024-07-11 at 11 47 03 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/d1b7f797-bf22-455e-a80a-4be5c7deedc6">
+<img width="1709" alt="Screenshot 2024-07-11 at 11 47 17 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/facd62c3-476e-45d5-a41b-870fdc2e189e">
+<img width="1710" alt="Screenshot 2024-07-11 at 11 47 27 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/e7b233d5-5e7d-4b1b-8b9e-0927729d9aa4">
+<img width="1710" alt="Screenshot 2024-07-11 at 11 47 38 AM" src="https://github.com/DebarghaNath/E-Commerce-Website-Admin/assets/171590877/fbcfc194-1e76-4bf6-8320-1e7a5193c13b">
+
+
